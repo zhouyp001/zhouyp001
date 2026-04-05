@@ -102,8 +102,3 @@ This GitHub mainly contains:
 
 👉 用于技术探索与能力验证
 
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/zhouyp001
