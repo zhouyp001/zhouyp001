@@ -9,7 +9,7 @@ Experienced in building **scalable backend systems** and designing **real-time p
 ## 🧠 About Me
 
 * 💻 专注于 **Java 后端开发 & 高并发系统设计**
-* 🧠 具备 **系统架构设计能力（服务拆分 / 异步处理 / 高并发优化）**
+* 🧠 具备 **系统架构设计能力**
 * 🚀 负责过 **复杂系统核心模块开发与架构设计**
 * 🎥 近期参与 **实时视频流 + AI 系统研发（架构 & 核心功能）**
 
