@@ -14,9 +14,6 @@ Experienced in building **scalable backend systems** and designing **real-time p
 * 🎥 近期参与 **实时视频流 + AI 系统研发（架构 & 核心功能）**
 * 🔧 熟悉多语言系统协作（Java / Python / C++）
 
----
-
-📌 *Note: Due to confidentiality, only simplified demos are available on GitHub.*
 
 ---
 
