@@ -1,6 +1,6 @@
 # Hi, I'm Zhou 👋
 
-🚀 **Backend Engineer | High-Concurrency Systems | Real-time Video Streaming**
+🚀 ** JAVA Backend Engineer | High-Concurrency Systems | Real-time Video Streaming**
 
 Experienced in building **scalable backend systems** and designing **real-time processing architectures**.
 
