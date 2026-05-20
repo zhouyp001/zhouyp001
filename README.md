@@ -23,7 +23,7 @@ This GitHub mainly contains:
 * 🐍 Python 工具类项目（效率工具 / 流处理相关）
 * 🌐 前端工具与小型应用（Vue）
     * try it： [gal.zhouyp.top](http://gal.zhouyp.top)
-    * try it： [szls-msp.zhouyp.top](szls-msp.zhouyp.top/)
+    * try it： [szls-msp.zhouyp.top](http://szls-msp.zhouyp.top)
 
 👉 用于技术探索与能力验证
 
