@@ -1,12 +1,10 @@
-# Hi, I'm Zhou 👋
+# 你好！ 👋
 
-🚀 **JAVA Backend Engineer | High-Concurrency Systems | Real-time Video Streaming**
-
-Experienced in building **scalable backend systems** and designing **real-time processing architectures**.
+🚀 **JAVA | 高并发 | 视频流 | 架构师**
 
 ---
 
-## 🧠 About Me
+## 🧠 关于我
 
 * 💻 专注于 **Java 后端开发 & 高并发系统设计**
 * 🧠 具备 **系统架构设计能力**
@@ -16,9 +14,7 @@ Experienced in building **scalable backend systems** and designing **real-time p
 
 ---
 
-## 🧪 Projects on GitHub
-
-This GitHub mainly contains:
+## 🧪 GitHub中的工程
 
 * 🐍 Python 工具类项目（效率工具 / 流处理相关）
 * 🌐 前端工具与小型应用（Vue）
