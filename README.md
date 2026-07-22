@@ -16,10 +16,10 @@
 
 ## 🧪 GitHub中的工程
 
-* 🐍 Python 工具类项目（效率工具 / 流处理相关）
+* 🐍 Python 工具类项目（效率工具 / AI相关）
 * 🌐 前端工具与小型应用（Vue）
-    * try it： [gal.zhouyp.top](http://gal.zhouyp.top)
-    * try it： [szls-msp.zhouyp.top](http://szls-msp.zhouyp.top)
+    * 宫格相册： [gal.zhouyp.top](http://gal.zhouyp.top)
+    * 智能猫笼： [szls-msp.zhouyp.top](http://szls-msp.zhouyp.top)
 
 👉 用于技术探索与能力验证
 
