@@ -12,5 +12,6 @@
 👉 用于技术探索与工具开发
 
 ## 🌐 在线项目
-    * 宫格相册： [gal](http://gal.zhouyp.top)
-    * 智能猫笼： [szls-msp](http://szls-msp.zhouyp.top)
+
+* 宫格相册： [gal](http://gal.zhouyp.top)
+* 智能猫笼： [szls-msp](http://szls-msp.zhouyp.top)
