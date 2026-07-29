@@ -9,9 +9,8 @@
 
 ## 🧪 GitHub中的工程
 
-👉 用于技术探索与能力验证
+👉 用于技术探索与工具开发
 
-* 🐍 Python 工具类项目（效率工具 / AI相关）
-* 🌐 前端工具与小型应用（Vue）
+## 🌐 在线项目
     * 宫格相册： [gal](http://gal.zhouyp.top)
     * 智能猫笼： [szls-msp](http://szls-msp.zhouyp.top)
