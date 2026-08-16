@@ -7,7 +7,16 @@
 
 ## 🏢 我创建的组织
 
-| <img src="assets/icons/128x128.png" width="96" alt="just-did logo"> | **[just-did](https://github.com/just-did)** —— 极简跨端个人日报记录工具「刚刚做了什么」<br>电脑端（Qt/C++）本地记录 + 局域网同步 · 手机端（Kotlin/Compose）扫码推送<br>3 个开源仓库聚合管理 · 门户：[just-did.github.io](https://just-did.github.io/) |
+<table border="0" cellpadding="8">
+  <tr>
+    <td valign="middle"><img src="assets/icons/128x128.png" width="96" alt="just-did logo"></td>
+    <td valign="middle">
+      <b><a href="https://github.com/just-did">just-did</a></b> —— 极简跨端个人日报记录工具「刚刚做了什么」<br>
+      电脑端（Qt/C++）本地记录 + 局域网同步 · 手机端（Kotlin/Compose）扫码推送<br>
+      3 个开源仓库聚合管理 · 门户：<a href="https://just-did.github.io/">just-did.github.io</a>
+    </td>
+  </tr>
+</table>
 
 ## 🧪 GitHub中的工程
 
