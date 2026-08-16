@@ -7,7 +7,7 @@
 
 ## 🏢 我创建的组织
 
-* [just-did](https://github.com/just-did) —— 「刚刚做了什么」极简跨端个人日报记录工具（电脑端 + 手机端）
+* [<img src="https://just-did.github.io/assets/icons/32x32.png" width="16" height="16"> just-did](https://github.com/just-did) —— 「刚刚做了什么」极简跨端个人日报记录工具（电脑端 + 手机端）
 
 ## 🧪 GitHub中的工程
 
