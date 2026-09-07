@@ -19,5 +19,5 @@
 
 ## 🌐 在线项目
 
-* 宫格相册： [gal](http://gal.zhouyp.top)
-* 智能猫笼： [szls-msp](http://szls-msp.zhouyp.top)
+* 宫格相册： [gal](https://zhouyp001.github.io/grid-album-layout/)
+* 智能猫笼： [szls-msp](https://szls-msp.github.io)
