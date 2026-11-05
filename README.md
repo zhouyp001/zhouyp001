@@ -9,7 +9,12 @@
 
 <p>
   <img align="left" width="72" height="72" src="assets/icons/128x128.png" alt="just-did logo">
-  <b><a href="https://github.com/just-did">just-did</a></b>（刚刚做了什么）—— 极简跨端个人日报记录工具：电脑端（Qt/C++）本地记录 + 局域网同步，手机端（Kotlin/Compose）随手记录 + 扫码推送电脑端。所有记录本地保存、无线同步，三个开源仓库聚合在 <a href="https://github.com/just-did">just-did 组织</a>下管理，门户网站为 <a href="https://just-did.github.io/">just-did</a>。
+  <b><a href="https://github.com/just-did">just-did</a></b>（刚刚做了什么）—— 极简跨端个人日报记录工具，支持电脑端本地记录与局域网同步，并提供手机端使用方式。
+</p>
+<br clear="all">
+
+<p>
+  <b><a href="https://github.com/WebAIHarnessRoom">WebAIHarnessRoom</a></b> —— 归集 Web AI Harness 的组织门厅，提供稳定入口与可发现的索引，探索如何让人类更高效、透明地驾驭 Web AI。
 </p>
 <br clear="all">
 
