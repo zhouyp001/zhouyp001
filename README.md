@@ -8,16 +8,12 @@
 ## 🏢 组织
 
 <p>
-  <b>just-did</b>（刚刚做了什么）
-  <a href="https://just-did.github.io" title="just-did 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="20" height="20" alt="门户网站" align="middle"></a>
-  <a href="https://github.com/just-did" title="just-did GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="20" height="20" alt="GitHub" align="middle"></a><br>
+  <b>just-did</b>（刚刚做了什么） <a href="https://just-did.github.io" title="just-did 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="门户网站" align="middle"></a> <a href="https://github.com/just-did" title="just-did GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a><br>
   极简跨端个人日报工具，支持桌面端本地记录、局域网同步与手机端记录。
 </p>
 
 <p>
-  <b>WebAIHarnessRoom</b>
-  <a href="https://webaiharnessroom.github.io/" title="WebAIHarnessRoom 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="20" height="20" alt="门户网站" align="middle"></a>
-  <a href="https://github.com/WebAIHarnessRoom" title="WebAIHarnessRoom GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="20" height="20" alt="GitHub" align="middle"></a><br>
+  <b>WebAIHarnessRoom</b> <a href="https://webaiharnessroom.github.io/" title="WebAIHarnessRoom 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="门户网站" align="middle"></a> <a href="https://github.com/WebAIHarnessRoom" title="WebAIHarnessRoom GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a><br>
   汇集 Web AI Harness 项目，提供统一入口与可发现的索引，探索更高效、透明地驾驭 Web AI。
 </p>
 
