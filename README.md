@@ -8,22 +8,21 @@
 ## 🏢 组织
 
 <p>
-  <img align="left" width="72" height="72" src="assets/icons/128x128.png" alt="just-did logo">
-  <b><a href="https://github.com/just-did">just-did</a></b>（刚刚做了什么）—— 极简跨端个人日报工具，支持桌面端本地记录、局域网同步与手机端记录。
+  <b>just-did</b>（刚刚做了什么）—— 极简跨端个人日报工具，支持桌面端本地记录、局域网同步与手机端记录。<br>
+  <a href="https://just-did.github.io" title="just-did 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="20" height="20" alt="门户网站"></a>
+  <a href="https://github.com/just-did" title="just-did GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="20" height="20" alt="GitHub"></a>
 </p>
-<br clear="all">
 
 <p>
-  <img align="left" width="72" height="72" src="https://raw.githubusercontent.com/WebAIHarnessRoom/WebAIHarnessRoom.github.io/master/assets/img/wahr.png" alt="WebAIHarnessRoom logo">
-  <b><a href="https://github.com/WebAIHarnessRoom">WebAIHarnessRoom</a></b> —— 汇集 Web AI Harness 项目，提供统一入口与可发现的索引，探索更高效、透明地驾驭 Web AI。
+  <b>WebAIHarnessRoom</b> —— 汇集 Web AI Harness 项目，提供统一入口与可发现的索引，探索更高效、透明地驾驭 Web AI。<br>
+  <a href="https://webaiharnessroom.github.io/" title="WebAIHarnessRoom 门户页"><img src="https://img.icons8.com/ios/50/domain.png" width="20" height="20" alt="门户网站"></a>
+  <a href="https://github.com/WebAIHarnessRoom" title="WebAIHarnessRoom GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="20" height="20" alt="GitHub"></a>
 </p>
-<br clear="all">
-
 
 ## 🌐 在线项目
 
-* 宫格相册： [gal](https://zhouyp001.github.io/grid-album-layout/)
-* 智能猫笼： [szls-msp](https://szls-msp.github.io)
+* 宫格相册： gal
+* 智能猫笼： szls-msp
 
 ## 🧪 关于GitHub
 
