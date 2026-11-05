@@ -14,6 +14,7 @@
 <br clear="all">
 
 <p>
+  <img align="left" width="72" height="72" src="https://raw.githubusercontent.com/WebAIHarnessRoom/WebAIHarnessRoom.github.io/master/assets/img/wahr.png" alt="WebAIHarnessRoom logo">
   <b><a href="https://github.com/WebAIHarnessRoom">WebAIHarnessRoom</a></b> —— 归集 Web AI Harness 的组织门厅，提供稳定入口与可发现的索引，探索如何让人类更高效、透明地驾驭 Web AI。
 </p>
 <br clear="all">
