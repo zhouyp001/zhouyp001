@@ -1,11 +1,11 @@
 # Hi ！ 👋
 
-## 🧠 关于我
+## 🧠 简介
 
 * 💻 专注于： **JAVA & 系统架构 & 高并发**
-* 🎥 近期参与： **视频流 + AI 识别**
+* 🎥 近期： **视频流 + AI 工程化**
 
-## 🏢 我创建的组织
+## 🏢 组织
 
 <p>
   <img align="left" width="72" height="72" src="assets/icons/128x128.png" alt="just-did logo">
@@ -19,11 +19,12 @@
 </p>
 <br clear="all">
 
-## 🧪 GitHub中的工程
-
-👉 用于技术探索与工具开发
 
 ## 🌐 在线项目
 
 * 宫格相册： [gal](https://zhouyp001.github.io/grid-album-layout/)
 * 智能猫笼： [szls-msp](https://szls-msp.github.io)
+
+## 🧪 关于GitHub
+
+👉 用于技术探索与工具开发
