@@ -20,11 +20,13 @@
 ## 🌐 在线项目
 
 <p>
-  <b>宫格相册</b> <a href="http://gal.zhouyp.top/" title="宫格相册在线体验"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="在线体验" align="middle"></a> <a href="https://github.com/zhouyp001/grid-album-layout" title="宫格相册 GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a>
+  <b>宫格相册</b> <a href="http://gal.zhouyp.top/" title="宫格相册在线体验"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="在线体验" align="middle"></a> <a href="https://github.com/zhouyp001/grid-album-layout" title="宫格相册 GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a><br>
+  宫格相册排版工具，帮助挑选和排版照片，制作宫格挂墙相册。
 </p>
 
 <p>
-  <b>智能猫笼</b> <a href="http://szls-msp.zhouyp.top/" title="智能猫笼在线体验"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="在线体验" align="middle"></a> <a href="https://github.com/zhouyp001/szls-msp" title="智能猫笼 GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a>
+  <b>智能猫笼</b> <a href="http://szls-msp.zhouyp.top/" title="智能猫笼在线体验"><img src="https://img.icons8.com/ios/50/domain.png" width="16" height="16" alt="在线体验" align="middle"></a> <a href="https://github.com/zhouyp001/szls-msp" title="智能猫笼 GitHub"><img src="https://img.icons8.com/ios-glyphs/30/github.png" width="16" height="16" alt="GitHub" align="middle"></a><br>
+  数字孪生猫砂盆项目，提供猫砂盆的数字孪生在线展示。
 </p>
 
 ## 🧪 关于GitHub
